@@ -16,7 +16,10 @@ Check out the live demo of the Guess My Number game [here](https://morohoschidan
 
 ## Screenshots
 
-![Guess My Number Game](link_to_screenshot.png)
+![Screenshot 1](./docs/images/homepage.png)
+![Screenshot 1](./docs/images/toolow.png)
+![Screenshot 1](./docs/images/toohigh.png)
+![Screenshot 1](./docs/images/correct.png)
 
 ## Technologies Used
 
